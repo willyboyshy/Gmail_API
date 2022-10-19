@@ -11,7 +11,7 @@ def send(email,vscode):
     params = {
     "to": email,
     "sender": "s1410832047@gms.nutc.edu.tw",
-    "subject": "學伴網註冊申請",
+    "subject": "註冊申請",
     "msg_html": text,
     "signature": True
     }
